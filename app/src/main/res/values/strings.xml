@@ -1,5 +1,15 @@
 <resources>
     <string name="app_name">MyPlantsDiary_Jasmine</string>
     <string name="aaa">repeated push test</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="zeropointzero">0.0</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="description">Description</string>
+    <string name="date_planted">Date Planted</string>
+    <string name="plant_photo">Plant photo</string>
+    <string name="add_plant_photo">Add plant photo</string>
+    <string name="save_button">save button</string>
+    <string name="login_button">login button</string>
 
 </resources>
